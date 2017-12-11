@@ -1,0 +1,24 @@
+{
+  "name": "curso-js-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso js com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nassinger/curso-js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Aline N <nassinger@unochapeco.edu.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nassinger/curso-js-tdd/issues"
+  },
+  "homepage": "https://github.com/nassinger/curso-js-tdd#readme"
+}
